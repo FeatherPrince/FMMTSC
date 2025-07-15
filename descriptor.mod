@@ -1,0 +1,9 @@
+version="1"
+replace_path="common/terrain"
+replace_path="common/abilities"
+tags={
+	"Fixes"
+	"Balance"
+}
+name="FMMTSC"
+supported_version="1.16.9"
