@@ -18,8 +18,8 @@ NDefines.NNavy.UNDERWAY_REPLENISHMENT_PRIORITY = 7;							-- Default convoy prio
 NDefines.NOperatives.MAX_OPERATIVE_SLOT_FROM_AGENCY_UPGRADES = 3;	--default 1 -- max operative slots gained from upgrades
 
 
---NDefines.NMilitary.MAX_DIVISION_BRIGADE_WIDTH = 5;			-- Max width of regiments in division designer.
---NDefines.NMilitary.MAX_DIVISION_BRIGADE_HEIGHT = 5;			-- Max height of regiments in division designer.
---NDefines.NMilitary.MIN_DIVISION_BRIGADE_HEIGHT = 4;			-- Min height of regiments in division designer.
---NDefines.NMilitary.MAX_DIVISION_SUPPORT_WIDTH = 2;			-- Max width of support in division designer.
---NDefines.NMilitary.MAX_DIVISION_SUPPORT_HEIGHT = 5;			-- Max height of support in division designer.
+NDefines.NMilitary.MAX_DIVISION_BRIGADE_WIDTH = 5;			-- Max width of regiments in division designer.
+NDefines.NMilitary.MAX_DIVISION_BRIGADE_HEIGHT = 5;			-- Max height of regiments in division designer.
+NDefines.NMilitary.MIN_DIVISION_BRIGADE_HEIGHT = 4;			-- Min height of regiments in division designer.
+NDefines.NMilitary.MAX_DIVISION_SUPPORT_WIDTH = 2;			-- Max width of support in division designer.
+NDefines.NMilitary.MAX_DIVISION_SUPPORT_HEIGHT = 5;			-- Max height of support in division designer.
